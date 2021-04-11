@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm curently on my second year of a bachelor degree in Software Engineering
+## I'm curently on my second year of a bachelor's degree in Software Engineering
 
 - 📚 I’m currently learning about Physics & Chemistry, Operating Systems like Linux and Data & Cloud Network Services
 - 💪🏼 Forward: I want to learn more about technologies and get a wider undestanding of the field
