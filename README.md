@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm curently on my second year of a bachelor's degree in Software Engineering
+## I'm currently on my second year of a bachelor's degree
 
-- 📚 I’m currently learning about Physics & Chemistry, Operating Systems like Linux and Data & Cloud Network Services
+- 📚 This semeseter Physics & Chemistry, Operating Systems like Linux and Data & Cloud Network Services
 - 💪🏼 Forward: I want to learn more about technologies and get a wider undestanding of the field
 - 👨 Work: Today I work as a private tutor, both municipal and as [private assignments][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 - ⚡ Fun fact: I'm a colourblind student, that has to come up with smart ideas around workflow and focuses a lot on universal design
