@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm currently on my second year of a bachelor's degree
+### I'm currently on my second year of my bachelor's degree
 
 - 📚 This semeseter Physics & Chemistry, Operating Systems like Linux and Data & Cloud Network Services
 - 💪🏼 Forward: I want to learn more about technologies and get a wider undestanding of the field
@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+#### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -29,7 +29,7 @@
 
 ---
 
-### Get in contact 📝
+#### Get in contact 📝
 
 [<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
