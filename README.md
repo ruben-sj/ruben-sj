@@ -10,6 +10,7 @@ My work focuses on scripting, system design, AI-assisted utilities, and clear, p
 - ⚡ Fun fact: I'm quite colourblind and therefore have to come up with smart ideas around workflow and universal design  
 
 ---
+<img src="https://raw.githubusercontent.com/ruben-sj/ruben-sj/main/Portfolio%20image.png" width="220" align="right" style="margin-left: 20px;">
 
 ### 📂 Portfolio
 - [AHK Productivity Suite]
@@ -17,6 +18,7 @@ My work focuses on scripting, system design, AI-assisted utilities, and clear, p
 - More project coming very soon
 
 *👉 [Link to portfolio]*
+<br clear="right"/>
 
 ---
 
@@ -48,3 +50,4 @@ My work focuses on scripting, system design, AI-assisted utilities, and clear, p
 [privatundervisning homepage]: https://www.notion.so/rubensj/Rubens-Privatundervisning-cd4198ec064a4c3c955d26477251ed0b  
 [linkedin]: https://www.linkedin.com/in/rubensjohanssen/  
 [Spotify]: https://open.spotify.com/user/117931879
+[Portfolio Image]: https://github.com/ruben-sj/ruben-sj/blob/main/Portfolio%20image.png
