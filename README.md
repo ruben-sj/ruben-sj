@@ -3,19 +3,20 @@
 *I build practical tools, automations, and workflows that make everyday tasks faster and cleaner.  
 My work focuses on scripting, system design, AI-assisted utilities, and clear, practical workflows.*
 
-- 🚀 Currently exploring automation, workflow design, and AI-assisted development  
-- 👨‍💻 Working on small tools that improve everyday productivity  
-- 🎯 Interested in structure, clarity, and practical problem-solving  
-- 👨 Work: Today I work as a [private tutor][website]  
+- 🚀 Currently: Exploring automation, workflow design, and AI-assisted development  
+- 👨‍💻 Working on: Small tools that improve everyday productivity  
+- 🎯 Interested in: Structure, clarity, and practical problem-solving  
+- 👨 Work: Today I work as a [private tutor][privatundervisning homepage]  
 - ⚡ Fun fact: I'm quite colourblind and therefore have to come up with smart ideas around workflow and universal design  
 
 ---
 
 ### 📂 Portfolio
+- [AHK Productivity Suite]
+- [Bad Bots]
+- More project coming very soon
 
-- New repos coming soon
-
-*👉 [Link to full portfolio coming soon][website 2]*
+*👉 [Link to portfolio]*
 
 ---
 
@@ -37,11 +38,13 @@ My work focuses on scripting, system design, AI-assisted utilities, and clear, p
 
 ---
 
-[<img alt="Portfolio" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />][website 2]
+[<img alt="Portfolio" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />][Link to portfolio]
 [<img alt="LinkedIn" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img alt="Spotify" height="32px" src="https://img.icons8.com/ios-filled/50/1DB954/spotify.png" />][Spotify]
 
-[website 2]: https://www.notion.so/rubensj/
-[website]: https://www.notion.so/rubensj/Rubens-Privatundervisning-cd4198ec064a4c3c955d26477251ed0b  
+[AHK Productivity Suite]: https://rubensj.notion.site/AHK-Productivity-Suite-2af4ba316955813da88ed349527f0fef?source=copy_link
+[Bad Bots]: https://rubensj.notion.site/Bad-Bots-Networked-Chatbot-Simulation-2af4ba31695581738c84ded153079522?source=copy_link
+[Link to portfolio]: https://rubensj.notion.site/Ruben-S-nstab-Johanssen-Portfolio-2af4ba31695580cc8423c0ba3c5822ff?source=copy_link
+[privatundervisning homepage]: https://www.notion.so/rubensj/Rubens-Privatundervisning-cd4198ec064a4c3c955d26477251ed0b  
 [linkedin]: https://www.linkedin.com/in/rubensjohanssen/  
 [Spotify]: https://open.spotify.com/user/117931879
