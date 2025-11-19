@@ -3,7 +3,7 @@
 *I build practical tools, automations, and workflows that make everyday tasks faster and cleaner.  
 My work focuses on scripting, system design, AI-assisted utilities, and clear, practical workflows.*
 
-- 🚀 Currently: Exploring automation, workflow design, and AI-assisted development  
+- 🚀 Currently: Exploring ahk-automation, workflow design, and AI-assisted development  
 - 👨‍💻 Working on: Small tools that improve everyday productivity  
 - 🎯 Interested in: Structure, clarity, and practical problem-solving  
 - 👨 Work: Today I work as a [private tutor][privatundervisning homepage]  
