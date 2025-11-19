@@ -13,7 +13,8 @@ My work focuses on scripting, system design, AI-assisted utilities, and clear, p
 <img src="https://raw.githubusercontent.com/ruben-sj/ruben-sj/main/Portfolio%20image.png" width="220" align="right" style="margin-left: 20px;">
 
 ### 📂 Portfolio
-- [AHK Productivity Suite]
+- [Productivity Suite]
+- [Hyperlink Formatter]
 - [Bad Bots]
 - More project coming very soon
 
@@ -44,7 +45,8 @@ My work focuses on scripting, system design, AI-assisted utilities, and clear, p
 [<img alt="LinkedIn" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img alt="Spotify" height="32px" src="https://img.icons8.com/ios-filled/50/1DB954/spotify.png" />][Spotify]
 
-[AHK Productivity Suite]: https://rubensj.notion.site/AHK-Productivity-Suite-2af4ba316955813da88ed349527f0fef?source=copy_link
+[Productivity Suite]: https://rubensj.notion.site/AHK-Productivity-Suite-2af4ba316955813da88ed349527f0fef?source=copy_link
+[Hyperlink Formatter]: https://rubensj.notion.site/AHK-Hyperlink-Formatter-2b04ba31695580a795cbf93f0c26dd8a?source=copy_link
 [Bad Bots]: https://rubensj.notion.site/Bad-Bots-Networked-Chatbot-Simulation-2af4ba31695581738c84ded153079522?source=copy_link
 [Link to portfolio]: https://rubensj.notion.site/Ruben-S-nstab-Johanssen-Portfolio-2af4ba31695580cc8423c0ba3c5822ff?source=copy_link
 [privatundervisning homepage]: https://www.notion.so/rubensj/Rubens-Privatundervisning-cd4198ec064a4c3c955d26477251ed0b  
