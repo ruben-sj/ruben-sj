@@ -16,7 +16,6 @@ My work focuses on scripting, system design, AI-assisted utilities, and clear, p
 - [Productivity Suite]
 - [Hyperlink Formatter]
 - [Bad Bots]
-- More project coming very soon
 
 *👉 [Link to portfolio]*
 <br clear="right"/>
