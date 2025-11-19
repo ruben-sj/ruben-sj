@@ -10,7 +10,7 @@ My work focuses on scripting, system design, AI-assisted utilities, and clear, p
 - ⚡ Fun fact: I'm quite colourblind and therefore have to come up with smart ideas around workflow and universal design  
 
 ---
-<img src="https://raw.githubusercontent.com/ruben-sj/ruben-sj/main/Portfolio%20image.png" width="220" align="right" style="margin-left: 20px;">
+<img src="test" width="220" align="right" style="margin-left: 20px;">
 
 ### 📂 Portfolio
 - [Productivity Suite]
