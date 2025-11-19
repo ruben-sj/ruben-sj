@@ -49,7 +49,7 @@ My work focuses on scripting, system design, AI-assisted utilities, and clear, p
 [Hyperlink Formatter]: https://rubensj.notion.site/AHK-Hyperlink-Formatter-2b04ba31695580a795cbf93f0c26dd8a?source=copy_link
 [Bad Bots]: https://rubensj.notion.site/Bad-Bots-Networked-Chatbot-Simulation-2af4ba31695581738c84ded153079522?source=copy_link
 [VOD Review System]: https://rubensj.notion.site/VOD-New-World-Database-2b04ba31695580629e38fc1ff6d7bec5?source=copy_link
-[Link to portfolio]: https://rubensj.notion.site/Ruben-S-nstab-Johanssen-Portfolio-2af4ba31695580cc8423c0ba3c5822ff?source=copy_link
+[Link to portfolio]: https://rubensj.notion.site/Ruben-s-Portfolio-2af4ba31695580cc8423c0ba3c5822ff?source=copy_link
 [privatundervisning homepage]: https://www.notion.so/rubensj/Rubens-Privatundervisning-cd4198ec064a4c3c955d26477251ed0b  
 [linkedin]: https://www.linkedin.com/in/rubensjohanssen/  
 [Spotify]: https://open.spotify.com/user/117931879
